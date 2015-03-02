@@ -1,0 +1,30 @@
+INSERT DBMSQ VALUES (1,'An owner member set in the CODASYL Specification may have','only one owner but many owner occurrences','only one member but many member occurrences','more than one member but nonly one occurrence per member','all of this','only one owner but many owner occurrences')
+INSERT DBMSQ VALUES (1,'A record in third normal form is better than arecord to first normal form a relational mathematics viewpoint','true','false','','','true')
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
+INSERT DBMSQ VALUES
